@@ -6,7 +6,7 @@
    <property name="jakarta.persistence.jdbc.Driver" value="com.mysql.cj.jdbc.Driver"/>
    <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/jpa"/>
    <property name="jakarta.persistence.jdbc.user" value="root"/>
-   <property name="jakarta.persistence.jdbc.password" value="Sajal@1730"/>
+   <property name="jakarta.persistence.jdbc.password" value="password"/>
 
    <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
    <property name="hibernate.hbm2ddl.auto" value="update"/>
@@ -14,4 +14,5 @@
   </properties>
 
  </persistence-unit>
+
 </persistence>
